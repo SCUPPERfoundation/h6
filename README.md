@@ -1,6 +1,6 @@
 # h6
 
-##Intro
+##  Intro
 This is a prototype engine for Federation 3 called Hexmosphere / H6.
 
 The goal is to develop a social overlay of the world, starting with a "null"
@@ -29,7 +29,7 @@ as increasing the resolution of the grid. The criteria for increasing the
 resolution will involve some critical mass of players choosing to center
 their "home hex" in a particular reality-corresponding zone.
 
-##Tech
+## Tech
 H3 is a particular method of aggregating data across general segments of
 real geography. A particular human's geographic location is sensitive /
 private data. Thus, great care must be made, as geographic location is
