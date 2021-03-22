@@ -45,3 +45,27 @@ including time zone, time of logged-in activity, and a variety of other
 general location-based self-reported information like city of residence.
 
 
+## Knowledge Base
+
+20 subjects! This will be controversial.
+
+* Music
+* Language Arts
+* Fine Arts
+* Martial Arts
+* Physics
+* Economics
+* Statistics
+* Maths
+* Sociology
+* Psychology
+* Biology
+* Zoology
+* History
+* Geography
+* Politics
+* Government
+* Some Type of Dance
+* Philosophy
+* Personal Health
+* Astronomy
